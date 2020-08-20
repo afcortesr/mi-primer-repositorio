@@ -1,2 +1,1 @@
-# prueba
-prueba algoritmos 2
+# mi-primer-repositorio
